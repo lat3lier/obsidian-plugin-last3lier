@@ -1,11 +1,14 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+  "id": "obsidian-plugin-last3lier",
+  "name": "Last3lier",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+  "description": "Gestion des fichiers pour last3lier.",
 	"author": "Obsidian",
 	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+  "fundingUrl": {
+    "Buy Me a Coffee": "https://www.buymeacoffee.com/fredlasnier",
+    "Patreon": "https://www.patreon.com/fredlasnier/creators/"
+  },
 	"isDesktopOnly": false
 }
